@@ -1,0 +1,39 @@
+header {
+    background-color: rgb(21, 0, 128);
+    color: white;
+    width: 100%;
+    height: 100px;
+    padding: 15px;
+}
+
+ul a{
+    color: white;
+    text-decoration: none;
+    }
+    li{
+    display: inline-block;
+    height: 50px;
+    width: 100px;
+    padding: 12px;
+    text-align: center;
+    color: white;
+    border-left: 2px solid rgb(55, 118, 182);
+    border-right: 1px solid rgb(55, 118, 182);
+    background-color:  rgb(55, 118, 182);
+    }
+    li:hover{
+    background-color:  rgb(49, 0, 128);
+    border-style: none;
+    }
+    h1{
+    margin-left: 200px;
+    }
+
+footer{
+    background-color: #00ff6e;
+    color: white;
+    width: 100%;
+    height: 200px;
+    padding: 5px;
+    margin-left: 0px;
+}    
